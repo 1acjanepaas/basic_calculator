@@ -8,6 +8,8 @@ Addition, Subtraction, Multiplication, Division
 User-friendly graphical interface
 Real-time input display
 Clear/reset functionality
-🛠️ Built With
+
+# Built With
+
 Python 3
 Tkinter (built-in GUI library)
