@@ -12,4 +12,5 @@ Clear/reset functionality
 # Built With
 
 Python 3
+VSCODE (IDE)
 Tkinter (built-in GUI library)
